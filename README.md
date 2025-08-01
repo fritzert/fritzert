@@ -50,8 +50,8 @@
 
 <a href="https://github.com/fritzert">
 
-  <img height="170em" width="49.5%" src="https://readme-stats-fert.vercel.app/api?username=fritzert&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr"/>
-  <img height="170em" width="49.5%" src="https://readme-stats-fert.vercel.app/api/top-langs/?username=fritzert&count_private=true&include_all_commits=true&langs_count=6&hide=javascript,html,css,scss&hide_progress=false&layout=compact&theme=codeSTACKr"/>
+  <img height="170em" width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fritzert&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr"/>
+  <img height="170em" width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fritzert&theme=codeSTACKr" alt="Top languages by repo badge"/>
 
 </a>
 </p>
